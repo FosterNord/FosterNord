@@ -1,0 +1,8 @@
+maven surefire plugin 
+Configiration called SuiteXmlFile
+
+under build tag
+add resources tag for log4j framework
+pass the log4j xml path till package level
+
+Listeners have to be defined in the testng xml along with the path
